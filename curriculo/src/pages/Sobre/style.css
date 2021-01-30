@@ -1,0 +1,14 @@
+.container-sobre{
+    width: 100%;
+    
+}
+
+.container-sobre .sidebar-container{
+    height: 100%;
+    width: 25%;
+    position: fixed;
+}
+
+.container-sobre .main-container{
+    margin-left: 25%;
+}
