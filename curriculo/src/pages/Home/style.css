@@ -1,0 +1,13 @@
+.container-home {
+    width: 100%;
+    height: 893px;
+    background-image: url(../../assets/Home.jpg);
+    max-width: 1900px;
+}
+
+.container-home h1{
+    color: #FFF;
+    font-size: 100px;
+    text-align: center;
+    padding: 15%;
+}

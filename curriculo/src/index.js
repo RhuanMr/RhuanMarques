@@ -1,18 +1,16 @@
-import React, { Component } from 'react'
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+import reportWebVitals from './reportWebVitals';
 
-export default  class App extends Component {
-  constructor(props){
-    super(props)
-    this.state = {
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
 
-    }
-  }
-
-  render(){
-    return(
-      <div className="container">
-        
-      </div>
-    )
-  }
-}
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
