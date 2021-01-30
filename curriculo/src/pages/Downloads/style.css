@@ -1,0 +1,24 @@
+.container-downloads{
+    text-align: center;
+}
+
+.container-downloads h1{
+    padding-top: 10%;
+    font-size: 64px;
+    color: #21AFCE;
+}
+
+.container-downloads .container-button{
+    padding-top: 10%;
+}
+
+.container-button a{
+    text-decoration: none;
+    margin: 40px;
+    color: #21AFCE;
+    font-size: 30px;
+}
+
+.container-button a:hover{
+    background-color:  rgba(33, 175, 206, 0.69);
+}
