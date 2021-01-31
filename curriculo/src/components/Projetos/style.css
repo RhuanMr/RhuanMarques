@@ -2,3 +2,19 @@
     font-size: 36px;
     color: #21AFCE;
 }
+
+.container-projetos .projeto{
+    margin:20px;
+}
+
+.container-projetos .projeto p{
+    margin-top: 10px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.container-projetos .projeto a{
+    text-decoration: none;
+    font-size: 15px;
+    color: #21AFCE;
+}

@@ -4,6 +4,7 @@
 }
 
 .container-sobre .sidebar-container{
+    margin-top: 100px;
     height: 100%;
     width: 25%;
     position: fixed;
@@ -11,5 +12,5 @@
 
 .container-sobre .main-container{
     margin-left: 30%;
-    padding-top: 5%;
+    padding-top: calc(100px + 5%);
 }

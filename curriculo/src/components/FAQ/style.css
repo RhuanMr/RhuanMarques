@@ -2,3 +2,12 @@
     font-size: 36px;
     color: #21AFCE;
 }
+
+.container-faq .perguntas{
+    margin: 20px;
+}
+
+.container-faq .perguntas p{
+    margin-top: 10px;
+    font-size: 15px;
+}

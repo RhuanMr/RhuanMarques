@@ -2,3 +2,20 @@
     font-size: 36px;
     color: #21AFCE;
 }
+
+.container-habilidades .lista{
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container-habilidades .lista .sub-container{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container-habilidades li{
+    margin: 10px;
+}

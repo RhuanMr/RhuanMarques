@@ -2,6 +2,7 @@ header{
     background: rgba(33, 175, 206, 0.69);
     height: 100px;
     width: 100%;
+    position: fixed;
 }
 .container-header{
     width: 100%;

@@ -2,3 +2,10 @@
     font-size: 36px;
     color: #21AFCE;
 }
+
+.container-about p{
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

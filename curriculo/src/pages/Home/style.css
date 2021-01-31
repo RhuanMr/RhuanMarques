@@ -9,5 +9,5 @@
     color: #FFF;
     font-size: 100px;
     text-align: center;
-    padding: 10%;
+    padding-top: calc(100px + 10%);
 }
