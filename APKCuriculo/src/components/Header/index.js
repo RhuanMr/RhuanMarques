@@ -10,7 +10,7 @@ export default function Header() {
     return (
         <Container>
             <ButtonMenu onPress={ () => navigation.toggleDrawer() }>
-                <Icon name="menu" color="#FFF" size={30} style={{paddingTop: 20, paddingLeft: 10}}/>                
+                <Icon name="menu" color="#FFF" size={30} style={{paddingTop: 25, paddingLeft: 10}}/>                
             </ButtonMenu>
             <Texto>Rhuan Marques</Texto>
         </Container>

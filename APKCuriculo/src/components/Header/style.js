@@ -14,7 +14,7 @@ align-items: center;
 `;
 export const Texto = styled.Text`
 padding-top: 20px;
-padding-left: 120px;
+padding-left: 90px;
 font-size: 24px;
 color: #fff;
 `;
