@@ -17,7 +17,7 @@ export default  class Habilidades extends Component {
                   <li>Css</li>
                   <li>Html</li>
                 </ul>
-             <li>Tenho dominio dos Frameworks</li>
+             <li>Tenho dominio dos Frameworks:</li>
                 <ul className="sub-container">
                   <li>React-Native</li>
                   <li>ReactJS</li>

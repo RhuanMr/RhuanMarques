@@ -23,7 +23,7 @@ export const Texto = styled.Text`
 font-size: 18px;
 `;
 
-export const Tipo = styled.Text`
+export const Habililidade = styled.Text`
 font-weight: bold;
 font-size: 18px;
 `;
