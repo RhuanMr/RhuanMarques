@@ -9,7 +9,7 @@ export default class Downloads extends Component {
           <h1>Downloads</h1>
           <div className="container-button">
               <Link to="Curriculo.pdf" target="_blank" download>PDF do currículo</Link>
-              <Link>APK do currículo</Link>
+              <Link to="app-release.apk" target="_blank" download>APK do currículo</Link>
           </div>       
       </div>
     );
