@@ -1,8 +1,8 @@
 import styled from 'styled-components'
 
-export const Container = styled.View`
+export const Container = styled.ScrollView`
 flex: 1;
-align-items: center;
+
 `;
 
 export const Title = styled.Text`
@@ -20,7 +20,17 @@ border-radius: 100px;
 `;
 
 export const Texto = styled.Text`
-margin-top: 20%;
-font-size: 24px;
+margin-top: 10px;
+font-size: 16px;
 text-align: center;
+`;
+
+export const TextConatainer = styled.View`
+margin-top: 10%;
+margin-bottom: 10%;
+`;
+
+export const Pegunta = styled.Text`
+font-size: 16px;
+font-weight: bold;
 `;

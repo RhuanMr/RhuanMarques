@@ -23,7 +23,7 @@ export default  class FAQ extends Component {
               <p>Solteiro.</p>
            </div>
            <div className="perguntas">
-              <h3>Qual é sua área dew maior interesse ?</h3>
+              <h3>Qual é sua área de maior interesse ?</h3>
               <p>Tenho preferência pelas áreas de desenvolvimento de aplicativos mobile e Web-apps.</p>
            </div>
       </div>

@@ -1,8 +1,7 @@
 import styled from 'styled-components'
 
-export const Container = styled.View`
+export const Container = styled.ScrollView`
 flex: 1;
-align-items: center;
 `;
 
 export const Title = styled.Text`
@@ -20,7 +19,24 @@ border-radius: 100px;
 `;
 
 export const Texto = styled.Text`
+margin-top: 10px;
+font-size: 18px;
+margin-bottom: 10px;
+`;
+
+export const Nome = styled.Text`
+font-size: 18px;
+font-weight: bold;
+`;
+
+export const Acesso = styled.Text`
+font-size: 18px;
+color: #21AFCE;
+`;
+
+export const TextContainer = styled.View`
+text-align: left;
+margin-left: 20px;
+margin-bottom: 20px;
 margin-top: 20%;
-font-size: 24px;
-text-align: center;
 `;
