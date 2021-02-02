@@ -16,7 +16,7 @@ export const Imagem = styled.Image`
 margin-top: 10%;
 height: 100px;
 width: 100px;
-border-radius: 100px;
+border-radius: 10px;
 `;
 
 export const Texto = styled.Text`
@@ -32,4 +32,9 @@ font-size: 18px;
  flex-direction: row;
  margin-top: 10%;
  text-align: left;
+ `;
+
+ export const Tipo = styled.Text`
+ font-size: 18px;
+ font-weight: bold;
  `;
